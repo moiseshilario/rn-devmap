@@ -1,0 +1,3 @@
+rootProject.name = 'devmapRN'
+
+include ':app'
